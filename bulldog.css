@@ -1,0 +1,18 @@
+body{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 150%;
+	background-image: url(https://gfnc1kn6pi-flywheel.netdna-ssl.com/wp-content/uploads/2018/09/french-bulldog-vs-english-bulldog-long.jpg);
+	background-size: contain;
+	margin: 30px;
+}
+.jumbotron{
+	background-color: transparent;
+}
+
+.btn-primary{border-radius: 300px;}
+
+.gomb {background-color: red;
+border-radius: 500px;
+transition: 1s;}
+
+.gomb:hover {transform: scale(1.5);}
